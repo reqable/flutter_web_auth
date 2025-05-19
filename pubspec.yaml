@@ -4,8 +4,7 @@ version: 0.6.0
 homepage: https://github.com/LinusU/flutter_web_auth
 
 environment:
-  sdk: ^3.5.3
-  flutter: '>=3.3.0'
+  sdk: ">=2.19.0 <3.0.0"
 
 dependencies:
   flutter:
